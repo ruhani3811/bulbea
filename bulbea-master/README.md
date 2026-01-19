@@ -102,8 +102,6 @@ And then,
 0.07580128205128206
 ```
 
-### Documentation
-Detailed documentation is available [here](http://bulbea.readthedocs.io/en/latest/).
 
 ### Dependencies
 1. quandl
@@ -111,5 +109,3 @@ Detailed documentation is available [here](http://bulbea.readthedocs.io/en/lates
 3. tweepy
 4. textblob
 
-### License
-This code has been released under the [Apache 2.0 License](LICENSE).
